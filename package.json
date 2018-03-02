@@ -49,7 +49,7 @@
     "arrify": "^1.0.1",
     "concat-stream": "^1.6.0",
     "create-error-class": "^3.0.2",
-    "duplexify": "^3.5.0",
+    "duplexify": "^3.5.4",
     "ent": "^2.2.0",
     "extend": "^3.0.1",
     "google-auto-auth": "^0.9.0",
